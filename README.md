@@ -1,1 +1,1 @@
-# U-store-Free-HTML5-eCommerce-Website-Template
+# U-STORE - E-Commerce Website Template - HTML5
