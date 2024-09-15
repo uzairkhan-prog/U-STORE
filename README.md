@@ -1,4 +1,6 @@
-# U-STORE - E-Commerce Website Template - HTML5
+![logo-01](https://github.com/user-attachments/assets/68d0a233-b7a6-406c-804b-32b3e75609ce)
+
+# E-Commerce Website Template - HTML5
 
 ![image](https://github.com/user-attachments/assets/e17b7efc-5f3d-40a2-9801-aa9dcef20d17)
 
